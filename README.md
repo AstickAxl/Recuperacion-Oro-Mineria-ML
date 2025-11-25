@@ -112,6 +112,9 @@ Recuperacion-Oro-Mineria/
 │   ├── gold_recovery_test.csv
 │   └── gold_recovery_full.csv
 │
+│   Nota: > Nota: El archivo `gold_recovery_full.csv` no se incluye en el repositorio debido a su tamaño.  
+│         > Para reproducir el experimento completo, consulta las instrucciones en `Data/README_DATA.md`.
+│
 ├── requirements.txt                        # Librerías necesarias
 ├── .gitignore
 └── README.md
