@@ -1,0 +1,13 @@
+# Información sobre gold_recovery_full.csv
+
+El archivo `gold_recovery_full.csv` no se incluye en este repositorio porque su tamaño excede el límite recomendado para GitHub.
+
+Este dataset forma parte del proyecto educativo de minería (recuperación de oro).  
+Para reproducir el análisis completo:
+
+1. Obtén el archivo `gold_recovery_full.csv` solicitandomelo vía LinkedIn o Gmail.
+2. Colócalo en la carpeta `Data/` con este nombre exacto:
+   `Data/gold_recovery_full.csv`
+3. Ejecuta el notebook o el script `Modelo_Recuperacion_Oro.py`.
+
+El código está preparado para funcionar cuando el archivo esté disponible en la ruta indicada.
